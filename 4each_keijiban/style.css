@@ -1,0 +1,118 @@
+header img{
+    height:80px;
+    width:350px;
+}
+    
+    ul.aaa{
+    background-color: black;
+    color: white;
+    font-size:12px;
+    
+}
+
+.aaa li{
+    display: inline-block;
+    list-style: none;
+    padding:16px;   
+}
+
+main .left{
+    float:left;
+    width:75%;
+}
+h1{
+    border-left:6px solid black;
+    border-bottom: 2px solid black;
+    margin-right:60px;
+    font-size:23px;
+    width:93%;
+    padding-left:3px;
+    
+    
+}
+
+form.first{background-color: #fbfbfb;
+    border:3px #ebebeb solid;
+    width:93%;
+    margin-left:5px;
+}
+.nyuryoku{
+    border-left: 4px solid red;
+    margin-bottom: 8px;
+    margin-left:5px;
+}
+
+.handlename{
+    margin-left:10px;
+}
+
+.title{
+    margin-left:10px;
+}
+.comments{
+    margin-left:10px;
+}
+
+.submit{
+     margin-left:10px;
+}
+
+.kiji{
+    margin-top:10px;
+    padding:10px 10px;
+    background-color: #fbfbfb;
+    border:3px #ebebeb solid;
+    width:92%;
+}
+
+.kiji h3{
+    border-bottom: solid 2px lightgray;
+}
+
+.contents{
+    margin:5px;
+    padding-bottom: 5px;
+}
+
+.handlename{
+    font-size:12px;
+}
+
+main .right{
+   float:left;
+    
+    
+}
+
+
+    
+
+
+h2{
+    border-bottom: 1px dotted black;
+    width:150%;
+    font-size:20px;
+}
+
+.bbb{
+    list-style: none;
+    padding-left:10px;
+    line-height: 37px;
+    
+    
+    
+    
+}
+
+footer{
+    clear:left;
+    padding-top:35px;
+
+}
+
+.last{
+    background-color: black;
+    color:white;
+    text-align: center;
+    padding:4px;
+}
